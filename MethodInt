@@ -1,0 +1,11 @@
+package pack1;
+
+public class MethodInt {
+	
+	int a;
+
+	int abc(int i, int j ){
+		int k = 5 ;  // k = 4+j;  ,  // k = i*j;  , k = i/j; 
+		return k ;
+	}
+}
