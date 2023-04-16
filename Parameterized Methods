@@ -1,0 +1,62 @@
+package pack1;
+
+public class MethodPM {
+	
+	String h = "Hello";
+	int year = 2023;
+	double date = 04.16;
+	boolean done = true ;
+	public class method{
+		int a = 10;
+	}
+	
+	// Non-Static  Parameterized method
+	
+	public void paraMdS(String s){
+		
+	}
+	
+	// Static Parameterized methods
+	public void paraMdM(String s, int m){
+		
+	}
+
+	public void paraMdI(int n, int o){
+		
+	}
+	public void paraMiC(method b){
+		
+		
+	}
+}package pack1;
+
+public class MethodPM {
+	
+	String h = "Hello";
+	int year = 2023;
+	double date = 04.16;
+	boolean done = true ;
+	public class method{
+		int a = 10;
+	}
+	
+	// Non-Static  Parameterized method
+	
+	public void paraMdS(String s){
+		
+	}
+	
+	// Static Parameterized methods
+	public void paraMdM(String s, int m){
+		
+	}
+
+	public void paraMdI(int n, int o){
+		
+	}
+	public void paraMiC(method b){
+		
+		
+	}
+}
+
