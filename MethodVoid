@@ -1,0 +1,15 @@
+package pack1;
+
+public class methodVoid {
+
+	
+  public void nsmethod(){
+		
+	}
+	
+	public static void smethod(){
+		
+	}
+	
+	
+}
