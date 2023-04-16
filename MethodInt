@@ -4,8 +4,14 @@ public class MethodInt {
 	
 	int a;
 
-	int abc(int i, int j ){
+ public int abc(int i, int j ){
 		int k = 5 ;  // k = 4+j;  ,  // k = i*j;  , k = i/j; 
 		return k ;
 	}
+ 	
+ public	static int def(int m, int n){
+	 int p = 10;
+	 return p ;
+	 
+ }
 }
