@@ -1,0 +1,44 @@
+package pack1;
+
+public class ObjClas {
+
+   
+	   
+		String s ;
+		int i ;
+		double d ;
+		boolean b  ;
+	
+
+	public static void main(String[] args) {
+		
+		
+		
+	ObjClas oc = new ObjClas();
+	String s1 = oc.s = "Hello";
+	    int i1= oc.i = 2023;
+	 double d1= oc.d = 04.17;
+	boolean b1 = oc.b = true ;
+		
+	System.out.println(s1);
+	System.out.println(i1);
+	System.out.println(d1);Hello
+2023
+4.17
+true
+	
+	System.out.println(b1);
+	}
+
+}
+
+ Output
+ 
+Hello
+2023
+4.17
+trueHello
+2023
+4.17
+true
+
