@@ -1,0 +1,6 @@
+Difference between ipv4 and ipv6
+	                  IPV4							IPV6
+	IPV4 is 32 bit IP address				IPV6 is 128-bit IP address
+	Is Numeric addressing method			is Alpha Numeric method
+	Binary bits are separated by dot(.)		Binary bit is separated by Colon(:) 
+	Support Broadcast						Doesn’t support Broadcast
