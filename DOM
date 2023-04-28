@@ -1,0 +1,15 @@
+DOM
+	Document Object Model
+	An interface that enables program to access and update  Style, Structure and Content of XML document. Is a common interface to manipulating document structures. Its get back tree structure that contain all of the elements of the document.
+	DOM Interfaces
+	Node-		basic datatype of the DOM.
+	Element-	
+	Attr-		represent an attribute of an element.
+	Text-		Actual content of Element or Attr.
+	Document-	Represent entire XML Document.
+	DOM Methods
+	Document.getDocumentElement()
+	Node.getFirstChild()
+	Node.getLastChild()
+Node.getNextSibling()
+Node.getAttribute(attrName)
