@@ -1,0 +1,9 @@
+What is Protocol?
+	Set of rules for formatting and processing Data.
+Protocols 
+		TCP		Transmission Control Protocol
+		HTTP 		Hyper Text Transfer Protocol
+		HTTPS		Hyper Text Transfer Protocol Secured/encrypted
+		TLS/SSL		Transport Layer Security / Secure Socket Layer
+		UDP			User Datagram protocol
+	
