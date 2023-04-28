@@ -1,0 +1,5 @@
+Difference between HTTP and HTTPS
+	HTTPS is encrypted and secured using digital certificates (SSL.TSL), HTTP not.
+	HTTPS operate at Transport layer, > HTTP operate at Application layer.
+	HTTPS operates on port 443  >  HTTP operate on port 80
+	HTTPS transfer data in encrypted Text, HTTP transfer plain text
