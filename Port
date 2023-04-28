@@ -1,0 +1,5 @@
+Port 
+	Ports are virtual point where network connections start and end. Ports are software-based
+	And managed by computers operating system.
+How many port in a machine ? 
+	 65,535 ports
