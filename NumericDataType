@@ -1,0 +1,11 @@
+int i = 020;
+		int j = 20;
+		int k = 0X20;
+System.out.println(i);
+System.out.println(j);
+System.out.println(k);
+		
+		
+16
+20
+32	
