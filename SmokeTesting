@@ -1,0 +1,25 @@
+Difference between Smoke, Regression and Sanity Test
+
+Smoke Test
+Performed on initial or unstable build
+Verify basic and critical component
+Cover end to end functionality
+Employed by both Developers and Testers
+Subset of Acceptance testing
+Done when there’s new build
+
+Sanity Test
+Performed on stable build
+Verify added functionality or code change or bug fixes
+Cover certain functionality
+Carried out by Testers
+Subset of Regression Testing
+Only carried out in short times
+
+Regression Test
+Performed on stable build
+Verify all system affected by new code change
+Extensively check  mostly all the functionality.
+Carried out Testers
+Superset of Regression Testing
+Usually performed after each update.
