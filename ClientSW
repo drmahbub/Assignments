@@ -1,0 +1,4 @@
+Basic difference between Thick and Thin Client Software
+
+Thin Client >> Server, Cloud, Can function only Online, utilize less local resources Data stored in Server, Example  Web Browsers like google
+Thick Client >> Standalone Software’s, Can function Offline, Utilizes more  local resources, Data Stored Locally, Example PC with LAN
