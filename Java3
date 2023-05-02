@@ -1,0 +1,2 @@
+How to check JDK installed in your machine?
+	Command Prompt 	>> javac -version
