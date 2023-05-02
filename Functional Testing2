@@ -1,0 +1,16 @@
+	
+Difference between Functional and Non Functional Testing
+Functional Testing
+Verify each function/feature of software		
+Manual Testing	
+Based on customer requirement	
+Describe what the product does	
+Example : Log in functionally
+
+
+Non Functional Testing
+Verify non functional aspects like performance, Usability, reliability
+Automation testing, Hard to done manually.
+Based on customers Expectation.
+Describe how the product does.
+Example : How long it takes to login
