@@ -1,0 +1,23 @@
+package pack1;
+
+import java.util.Scanner;
+
+public class SumAllDigit {
+
+	public static void main(String[] args) {
+	Scanner scan = new Scanner(System.in);
+	System.out.println("Enter Numbers  "+scan);
+	
+	int number = scan.nextInt();
+	scan.close();
+	int sum = 0;
+	while(number!=0){
+		int remind = number%10 ;
+		sum = sum+remind;
+		number = number/10;
+	}
+	
+	System.out.println(sum);
+	}
+
+}
