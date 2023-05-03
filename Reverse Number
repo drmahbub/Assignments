@@ -1,0 +1,21 @@
+package pack1;
+
+import java.util.Scanner;
+
+public class Rnumber {
+
+	public static void main(String[] args) {
+	Scanner scan= new Scanner(System.in);
+	System.out.println("Enter number");
+	int num = scan.nextInt();
+	int rnumber = 0;
+	while(num>0){
+		int remind = num%10 ;
+		rnumber =(rnumber*10)+remind;
+		num = num/10;
+	}
+	
+	System.out.println(rnumber);
+	}
+
+}
