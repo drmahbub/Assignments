@@ -1,0 +1,30 @@
+package pack1;
+
+import java.util.Scanner;
+
+public class ArmstrongNumber {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter Number  ");
+
+		int num = scan.nextInt();
+		scan.close();
+		int original = num;
+		int cubNum = 0;
+		while(num>0){
+			int reminder = num%10;
+			cubNum = cubNum+(reminder*reminder*reminder);
+			num = num/10;
+		}
+		if(original==cubNum){
+			System.out.println("Entered Number "+original+"is an Armstrong Number");
+			
+		}
+		else{
+			System.out.println("Entered Number "+original+" is not an Armstrong Number");
+		}
+	}
+
+}
