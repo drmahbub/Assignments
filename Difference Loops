@@ -1,0 +1,44 @@
+package pack1;
+
+public class LoopForDoWhile {
+
+	public static void main(String[] args) {
+	
+		//For	when we know Iteration numbers
+				// While, Do While When don't know  Iteration Numbers
+		//Syntax
+			// for Loop >> initialization, condition and update is part of Syntax
+			for (int i =0; i<=10; i++){
+				System.out.println("Hello");// Statements
+			}
+			// While Loop >> only Condition is in syntax
+			    int j = 0;
+			while(j<10){
+				System.out.println("java");//Statements
+				j++;
+			}
+			//Do While Loop >>
+				int k = 0;
+			do{
+			System.out.println("world");
+			k++;
+			}while(k<10);
+			
+			// Semicolon >> No Semicolon after statements in For Loop
+			       // and While Loop, BUT Semicolon after do while statement.
+			
+			//Loop will not execute if Cinditions are not True
+			      //in For and While Loop. 
+			     //BUT Loop will execute atleast once even condtion are false
+		
+
+	}
+
+}
+
+
+
+
+
+
+
