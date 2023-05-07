@@ -1,0 +1,23 @@
+
+class Test {
+
+  public static void main(String[] args) {
+
+      for(int i = 0; 1; i++) {
+
+      System.out.println("Hello"); 
+
+      break; 
+
+      } 
+
+    } 
+
+}
+
+
+
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from int to boolean
+
+	at pack1.ForLoop3.main(ForLoop3.java:8)
