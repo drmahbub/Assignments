@@ -1,0 +1,21 @@
+
+package pack1;
+
+public class LoopAssign {
+
+	public static void main(String[] args) {
+		
+	
+		
+		 //for(; ; ) {
+
+		      //System.out.println("Hello"); 
+
+
+		       
+		 for (int i =0;i<=5;){
+			 System.out.println("world");
+		 }
+
+	}
+}
