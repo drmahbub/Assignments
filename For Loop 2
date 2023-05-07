@@ -1,0 +1,6 @@
+
+
+Why we use for loop when we have while and do.while loops?
+	We use For Loop when we know Iteration Number, while id While and do while Loop don’t know iteration number
+	It is an entry controlled Loop
+	Syntax contain initialization, condition and update
